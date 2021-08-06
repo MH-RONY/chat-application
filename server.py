@@ -1,7 +1,6 @@
 import socket
 import threading
 
-#server ip and port 
 SERVER = "192.168.0.102"
 PORT = 6060
 ADDR = (SERVER, PORT)
